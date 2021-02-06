@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">bookkeeping</string>
+    <string name="strId">ID</string>
+    <string name="strDate">Date</string>
+    <string name="strType">Type</string>
+    <string name="strContent">Content</string>
+    <string name="strPrice">Price</string>
+    <string name="expenseAllDayStr">Expenditure on the day</string>
+    <string name="expenseAllMonth">Expenditure on the Month</string>
+    <string name="addingDataStr">Add consumption record</string>
+    <string name="remark">Remarks</string>
+    <string name="addingSuccess">Added successfully</string>
+    <string name="hintPrice">Please input price</string>
+    <string name="hintContent">Please input content</string>
+    <string name="deleteList">Delete Item?</string>
+    <string name="confirm">comfirm</string>
+    <string name="cancel">cancel</string>
+    <string name="selectDescription">* Short click to see remarks\n
+        * Long click to delete the item\n
+        * Click date to open calender and choose date
+    </string>
+    <string name="pieChart">Pie Chart</string>
+    <string name="food">food</string>
+    <string name="clothing">clothing</string>
+    <string name="housing">housing</string>
+    <string name="transportation">transportation</string>
+    <string name="education">education</string>
+    <string name="entertainment">entertainment</string>
+    <string name="pieDescription">Consumption(%)</string>
+    <string name="instruction">Instruction</string>
+    <string-array name="typeArr">
+        <item>food</item>
+        <item>clothing</item>
+        <item>housing</item>
+        <item>trasportation</item>
+        <item>education</item>
+        <item>entertainment</item>
+    </string-array>
+</resources>

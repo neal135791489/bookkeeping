@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">bookkeeping</string>
+    <string name="strId">넘버링</string>
+    <string name="strDate">데이트</string>
+    <string name="strType">종</string>
+    <string name="strContent">함유량</string>
+    <string name="strPrice">양</string>
+    <string name="expenseAllDayStr">당일 지출</string>
+    <string name="expenseAllMonth">한 달을 보내십시오</string>
+    <string name="addingDataStr">소비 기록 추가</string>
+    <string name="remark">비고</string>
+    <string name="addingSuccess">성공적으로 추가</string>
+    <string name="hintPrice">소비량을 입력하세요</string>
+    <string name="hintContent">소비 내용을 입력하세요</string>
+    <string name="deleteList">항목 삭제 확인?</string>
+    <string name="confirm">확인</string>
+    <string name="cancel">취소</string>
+    <string name="selectDescription">* 비고를 보려면 항목을 누르십시오.\n
+        * 삭제하려면 항목을 길게 누르세요.\n
+        * 날짜를 탭하여 캘린더 선택을 엽니 다.
+    </string>
+    <string name="pieChart">파이 차트</string>
+    <string name="food">음식</string>
+    <string name="clothing">천</string>
+    <string name="housing">라이브</string>
+    <string name="transportation">열</string>
+    <string name="education">기르다</string>
+    <string name="entertainment">장난</string>
+    <string name="pieDescription">각 카테고리의 비용(%)</string>
+    <string name="instruction">명령</string>
+    <string-array name="typeArr">
+        <item>음식</item>
+        <item>천</item>
+        <item>라이브</item>
+        <item>열</item>
+        <item>기르다</item>
+        <item>장난</item>
+    </string-array>
+</resources>

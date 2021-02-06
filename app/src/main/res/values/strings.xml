@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">bookkeeping</string>
+    <string name="strId">編號</string>
+    <string name="strDate">日期</string>
+    <string name="strType">種類</string>
+    <string name="strContent">內容</string>
+    <string name="strPrice">金額</string>
+    <string name="expenseAllDayStr">當日支出</string>
+    <string name="expenseAllMonth">當月支出</string>
+    <string name="addingDataStr">新增消費紀錄</string>
+    <string name="remark">備註</string>
+    <string name="addingSuccess">新增成功</string>
+    <string name="hintPrice">請輸入消費金額</string>
+    <string name="hintContent">請輸入消費內容</string>
+    <string name="deleteList">確認刪除該項目嗎</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="selectDescription">* 短按項目查看備註\n
+        * 長按項目刪除\n
+        * 點選日期可開啟日曆選取
+    </string>
+    <string name="pieChart">圓餅圖</string>
+    <string name="food">食</string>
+    <string name="clothing">衣</string>
+    <string name="housing">住</string>
+    <string name="transportation">行</string>
+    <string name="education">育</string>
+    <string name="entertainment">樂</string>
+    <string name="pieDescription">月各項種類花費比(%)</string>
+    <string name="instruction">操作說明</string>
+    <string-array name="typeArr">
+        <item>食</item>
+        <item>衣</item>
+        <item>住</item>
+        <item>行</item>
+        <item>育</item>
+        <item>樂</item>
+    </string-array>
+</resources>
